@@ -1,7 +1,7 @@
 
 var vacationMemories = ['mallorca with judith', 'berlin with dad', 'netherlands with dad', 'austria with dad', 'netherlands and maxi', 'canada with chloe and jason'];
 
-rememberingDad = false;
+var rememberingDad = false;
 
 while (rememberingDad === false) {
     for (var i = 0; i < vacationMemories.length; i++) {
